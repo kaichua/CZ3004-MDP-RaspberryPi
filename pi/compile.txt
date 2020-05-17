@@ -1,0 +1,1 @@
+sudo gcc -o run -g -l wiringPi -lbluetooth -pthread main.c
